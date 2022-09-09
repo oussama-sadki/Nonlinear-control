@@ -1,4 +1,4 @@
-# Nonlinear-control of a two degree of freedom robot
+# Nonlinear control of a two degree of freedom robot
 Nonlinear control of a two degree of freedom robot : Comparaison between First and Higher Order Sliding Mode Control.
 
 
